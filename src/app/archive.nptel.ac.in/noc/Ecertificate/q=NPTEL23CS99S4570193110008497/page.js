@@ -17,7 +17,7 @@ export default function Page() {
             width: '156px',
           }}
         >
-          Course Certificate
+          Course Certificate xml
         </a>
         <br />
       </div>
