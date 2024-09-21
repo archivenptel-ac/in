@@ -15,7 +15,7 @@ export default function Page() {
             width: '156px',
           }}
         >
-          Course Certificate
+          Course Certificate test1
         </a>
         <br />
       </div>
