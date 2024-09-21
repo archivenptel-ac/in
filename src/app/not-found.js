@@ -40,7 +40,7 @@ export default function NotFound() {
           <h2 style={{ fontSize: '2vw', color: 'red', fontWeight: 'bold', textAlign: 'center' }}>
             We have changed our links. Please go to{' '}
             <a
-              href="https://archive.nptel.ac.in/course.html"
+              href="./https://archive.nptel.ac.in/course.html"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: 'blue', textDecoration: 'none' }}
